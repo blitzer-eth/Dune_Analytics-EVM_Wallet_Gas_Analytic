@@ -34,4 +34,5 @@ An "Activity Map" that identifies which decentralized applications (dApps) you i
 * **Engagement Metrics:** Ranks protocols by total transaction count and total ETH gas spent.
 * **USD Tracking:** Tracks the dollar value of interactions both at the time of the call and under current market conditions.
 
+## :camera_flash: Snapshot 
 <img width="3734" height="4407" alt="dune-evm-wallet" src="https://github.com/user-attachments/assets/7f3b82c3-d856-4da7-9593-005226b0419b" />

@@ -6,8 +6,6 @@ This dashboard offers an expansive view of a wallet's financial footprint across
 
 The suite is designed to help power users and analysts understand their cumulative costs and interaction patterns across **11+ blockchains**, including Ethereum, Arbitrum, Base, and more.
 
----
-
 ## 🔍 Query Breakdown
 
 ### 1. Multi-Chain ETH Gas Spend
